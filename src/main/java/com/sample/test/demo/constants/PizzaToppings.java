@@ -12,9 +12,7 @@ public enum PizzaToppings {
     PROVOLNE("Provolone cheese"),
     EXTRACHEESE("Extra cheese"),
     MOZZARELLA("Mozzarella cheese"),
-    PARMASAN("Parmesan cheese")
-
-    ;
+    PARMASAN("Parmesan cheese");
 
     private String displayName;
 
